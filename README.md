@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazim</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src ="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img style="width:100%" src ="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim8115&label=Profile%20views&color=0e75b6&style=flat" alt="nazim8115" /> </p>
 
